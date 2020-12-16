@@ -10,7 +10,7 @@ Evaluation is performed using python notebooks:
 [Running time](https://github.com/arleilps/group-testing/blob/main/Scalability.ipynb)
 
 For more details, see the paper:  
-[Gropu Testing on a Network](http://www.cs.ucsb.edu/~arlei/pubs/aaai21.pdf "")  
+[Group Testing on a Network](http://www.cs.ucsb.edu/~arlei/pubs/aaai21.pdf "")  
 Arlei Silva, Ambuj K Singh  
 AAAI Conference on Artificial Intelligence (AAAI), 2021. 
 
